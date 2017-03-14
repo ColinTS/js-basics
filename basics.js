@@ -29,6 +29,7 @@ if(person.age >= 16){
 /* Create an array called `dataTypes` with atleast 1 of every data type;
  * (there are 6 different data types);
  */
+ var dataTypes = [13, "Bongo", true, undefined, null, {name: "Lars", age: 52}];
 
 /* Create a `dog` object
  * it should have a `bark` function that makes your dog bark!
